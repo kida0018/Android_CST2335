@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndroidLabs</string>
-    <string name="hello_message">Bonjour!</string>
-    <string name="ButtonText">I\'m a button</string>
+    <string name="hello_message">Hello</string>
+    <string name= "app_name">Android Labs</string>
+    <string name="widgets">Voici mes widgets:</string>
+    <string name ="Widgets2">Bouton</string>
+    <string name="widgets3">Regarde ça!</string>
+    <string name="widgets4">Allumer / éteindre</string>
+    <string name="widgets5">texte Nom de la personne</string>
 </resources>
